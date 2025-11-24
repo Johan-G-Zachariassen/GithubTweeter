@@ -74,5 +74,8 @@ public class Main {
         Frank frank = new Frank();
         System.out.println(CYAN_BOLD+frank.tweet());
 
+        Christmas christmas = new Christmas();
+        System.out.println(YELLOW_BOLD+christmas.tweet());
+
     }
 }
